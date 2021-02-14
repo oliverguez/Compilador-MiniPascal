@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\obj\Debug\CompiladorMiniSpark.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\bin\Debug\CompiladorMiniSpark.exe.config
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\bin\Debug\CompiladorMiniSpark.exe
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\bin\Debug\CompiladorMiniSpark.pdb
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\obj\Debug\CompiladorMiniSpark.exe
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\obj\Debug\CompiladorMiniSpark.pdb
+C:\Users\olive\source\repos\CompiladorMiniSpark\CompiladorMiniSpark\obj\Debug\CompiladorMiniSpark.csproj.CoreCompileInputs.cache
